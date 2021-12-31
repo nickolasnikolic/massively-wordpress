@@ -48,7 +48,7 @@
 
 <!-- Copyright -->
 <div id="copyright">
-	<ul><li>&copy; Nickolas Nikolic</li></ul>
+	<ul><li>&copy; 2022 Some Name</li></ul>
 </div>
 
 </div>

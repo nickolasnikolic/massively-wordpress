@@ -34,7 +34,7 @@
 			<?php if(has_custom_logo()): ?>
 				<?php the_custom_logo(); ?>
 			<?php else: ?>
-                nickolas nikolic
+                generic logo text
             <?php endif; ?>
         </a>
 	</header>
